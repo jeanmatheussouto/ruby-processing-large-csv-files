@@ -12,3 +12,9 @@ print_memory_usage do
     puts "Sum: #{sum}"
   end
 end
+
+#### Result ####
+# Sum: 499999500000
+# Time: 11.09
+# Memory: 0.6 MB
+####        ####
